@@ -1,0 +1,2 @@
+INSERT INTO bookingEntity (pitch_id, player_id, start_time, duration_minutes) VALUES ('P1', 'PL1', '2025-07-20T10:00:00', 60);
+INSERT INTO bookingEntity (pitch_id, player_id, start_time, duration_minutes) VALUES ('P1', 'PL2', '2025-07-20T12:00:00', 90);
